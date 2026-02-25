@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <title>Zhang Rui - Personal Page</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 700px;
+      margin: 50px auto;
+      padding: 0 20px;
+      line-height: 1.8;
+      color: #333;
+    }
+    h1 {
+      border-bottom: 1px solid #eee;
+      padding-bottom: 10px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Zhang Rui</h1>
+  <p><strong>Email:</strong> 3150688274@qq.com</p >
+  <p><strong>Affiliation:</strong> University of Science and Technology Beijing</p >
+  <p><strong>Education:</strong> Bachelor of Engineering</p >
+  <p><strong>Research Interests:</strong> Machine Learning, Data Science</p >
+</body>
+</html>
